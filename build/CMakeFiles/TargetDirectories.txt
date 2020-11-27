@@ -1,0 +1,3 @@
+/Users/roy/Desktop/candy/build/CMakeFiles/ALL_BUILD.dir
+/Users/roy/Desktop/candy/build/CMakeFiles/ZERO_CHECK.dir
+/Users/roy/Desktop/candy/build/LLVMSupport/CMakeFiles/LLVMSupport.dir
